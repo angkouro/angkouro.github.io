@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://angkouro.github.io/sitemap.html.gz
+Sitemap: https://angkouro.github.io/app/sitemap.html.gz
+Sitemap: https://angkouro.github.io/assets/sitemap.html.gz
+Sitemap: https://angkouro.github.io/css/sitemap.html.gz
+Sitemap: https://angkouro.github.io/includes/sitemap.html.gz
+Sitemap: https://angkouro.github.io/item/sitemap.html.gz
+Sitemap: https://angkouro.github.io/src/sitemap.html.gz
